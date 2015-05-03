@@ -1,7 +1,7 @@
 class Pstoedit < Formula
   homepage "http://www.pstoedit.net"
-  url "https://downloads.sourceforge.net/project/pstoedit/pstoedit/3.62/pstoedit-3.62.tar.gz"
-  sha1 "50d5a4e2fe0e0ff2f73cb094cb945b221083e742"
+  url "https://downloads.sourceforge.net/project/pstoedit/pstoedit/3.70/pstoedit-3.70.tar.gz"
+  sha1 "657f8f7070fde1432cd65a34b6b1c4b5b42f8b50"
   revision 1
 
   bottle do
